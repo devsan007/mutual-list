@@ -1,0 +1,15 @@
+{
+  "name": "mutual-friend",
+  "version": "1.0.0",
+  "description": "Mutual friend list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "twitter": "^1.7.0"
+  }
+}
